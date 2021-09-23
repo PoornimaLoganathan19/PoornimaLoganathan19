@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PoornimaLoganathan19
+- 👋 Hi, I’m Poornima
 - 👀 I’m interested in UX/UI design and Angular/AEM development
 - 🌱 I’m currently learning UX/UI design
 - 💞️ I’m looking to collaborate on Design and development projects
